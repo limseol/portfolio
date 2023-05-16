@@ -6,7 +6,7 @@
 font-family: 'Hahmlet', serif;
 font-family: 'Raleway', sans-serif; */
 
-*{outline: 1px solid darkmagenta} 
+/* *{outline: 1px solid darkmagenta}  */
 /* outline은 작업할때 안내선 정도로 알아보다가 모든 작업이 끝날즈음엔 주석처리 */
 body{font-family: 'Raleway','Hahmlet', sans-serif;
 background: #1d1d1d;color: white;}
@@ -29,7 +29,7 @@ a:link, a:visited {color:#ad7835}
     /* background: url('../images/header\ bg.png') no-repeat center top/cover; */
     margin: 0 auto;
     padding-top:160px;
-    width: 1300px;
+    /* width: 1300px; */
     height: 100vh;
     position: relative;
 }
@@ -169,6 +169,7 @@ div.lastestArticles ul li>h3 {
     font-weight: bold;
     position: relative;
     margin-bottom: 20px;
+    text-align: left;
 
 }
 
