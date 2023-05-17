@@ -195,7 +195,7 @@ div.lastestArticles ul li>p {
 }
 div.lastestArticles ul li a {
     text-transform: uppercase;
-    font-weight: bold;
+    /* font-weight: bold; */
     line-height: 30px;
 }
 
